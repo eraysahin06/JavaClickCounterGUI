@@ -22,7 +22,7 @@ public class Main implements ActionListener {
         panel.add(label);
         frame.add(panel, BorderLayout.CENTER);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setTitle("My GUI");
+        frame.setTitle("Java Click Couner");
         frame.pack();
         frame.setVisible(true);
     }
