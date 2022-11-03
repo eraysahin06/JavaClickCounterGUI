@@ -1,5 +1,5 @@
 # JavaClickCounterGUI
-<h2>Java Click Counter</h2>
+<h2>Java Click Counter GUI Program</h2>
 A Click Counter as a GUI in Java.
 <br /><br />
 The count number will increase as you click on the button.
