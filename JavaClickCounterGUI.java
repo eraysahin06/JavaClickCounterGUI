@@ -10,7 +10,6 @@ public class Main implements ActionListener {
     private JPanel panel;
     private JButton button;
     public Main() {
-
         frame = new JFrame();
         button = new JButton("Click here");
         button.addActionListener(this);
